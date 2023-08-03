@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathmeshRanjan
 - 👀 I’m interested in web3 and blockchain technology.
-- 🌱 I’m currently learning Rust, Solidity, JavaScript and front-end frameworks for dApp & NFT development.
+- 🌱 I’m currently learning Rust, Solidity and MERN stack.
 - 💞️ I’m looking to collaborate on web3 projects.
 
 <!---
