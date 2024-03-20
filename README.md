@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathmeshRanjan
-- 👀 I’m interested in web3 and blockchain technology.
-- 🌱 I’m currently learning Rust, Solidity and MERN stack.
+- 👀 I’m interested in Web3 and Blockchain technology.
+- 🌱 I’m currently learning Smart Contract auditing, Solidity, Rust and React.
 - 💞️ I’m looking to collaborate on web3 projects.
 
 <!---
