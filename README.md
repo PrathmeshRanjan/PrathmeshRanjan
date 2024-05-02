@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrathmeshRanjan
-- 👀 I’m interested in Web3 and Blockchain technology.
-- 🌱 I’m currently learning Smart Contract auditing, Solidity, Rust and React.
-- 💞️ I’m looking to collaborate on web3 projects.
+- 👀 Building in Web3 and Blockchain.
+- 🌱 Passionate for Smart Contracts, Web3 Security, Solidity, Rust and React.
+- 💞️ Currently working as a Web3 Security Researcher @ QuillAudits.
 
 <!---
 PrathmeshRanjan/PrathmeshRanjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
